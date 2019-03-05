@@ -1,2 +1,2 @@
 # sandbox
-NextflowTests
+This repo is a testground for nextflow.
